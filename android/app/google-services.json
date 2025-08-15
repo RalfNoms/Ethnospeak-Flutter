@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608631284095",
+    "project_id": "fluttertranslator-9b574",
+    "storage_bucket": "fluttertranslator-9b574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608631284095:android:2c68082d2381b63bab7a4a",
+        "android_client_info": {
+          "package_name": "com.example.capstone_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALLVzJkQyFbijR-eOwsPtggnkkrhytQcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
