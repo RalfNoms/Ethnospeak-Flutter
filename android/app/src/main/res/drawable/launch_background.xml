@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+       
+    <!-- Background Image scaled to cover the entire screen -->
+    <item android:gravity="center">
+        <bitmap
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:scaleType="centerCrop"  
+            android:src="@drawable/splashscreen"/>
+    </item>
+</layer-list>
+
